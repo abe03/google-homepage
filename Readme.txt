@@ -1,4 +1,4 @@
-<h1>google-homepage</h1>
+google-homepage
 
 This is a project for The odin project, it can be found here: http://www.theodinproject.com/web-development-101/html-css
 
